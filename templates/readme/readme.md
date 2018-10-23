@@ -14,7 +14,7 @@ Here's the index of emojis according to project types :
 - ℹ️ **Information:** informative repositories, with useful resources or administratives information
 - 📦 **Promo:** main repo for a BeCode promo
 - 📚 **Watch:** watch repo
-- 🔨 **Internal Projects:** internal projects - fake clients, exercices…
+- 🔨 **Internal Projects:** development of BeCode's plateforme/project. We develop tools we want to use or usefull for promoting our learners.
 - 🔬 **External Projects:** (real) projects for clients.
 - ⚙️ **Tools:** useful tools, both for internal or public usage.
 - 👩‍🏫 **Coach Stuffs:** coach repositories, administrative stuffs. _For coaches only._

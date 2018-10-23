@@ -4,6 +4,10 @@
 
 * * *
 
+> **NOTE:** This repo is still a *work in progress*
+
+* * *
+
 > 🇫🇷 **Bienvenue !**  
 > Vous êtes sur le repo **BeCode Central**, le point d'entrée du GitHub de BeCode.  
 > Si vous êtes perdu, c'est le meilleur endroit pour vous y retrouver : tout ou presque est indexé ici.  

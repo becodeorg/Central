@@ -25,13 +25,30 @@
 
 ## Repositories Index
 
-### 📦 Promos
+### Promos
 
-*TODO*
+#### 📦 Active Promos
+
+- [Lovelace2 (promo 05)](https://github.com/becodeorg/lovelace-2)
+- [Johnson2 (promo 05)](https://github.com/becodeorg/Johnson2)
+- [Swartz2 (promo 06)](https://github.com/becodeorg/Swartz-2)
+- [Turing2 (promo 06)](https://github.com/becodeorg/Turing-2)
+- [Hamilton Liège 1.7](https://github.com/becodeorg/LIE-Hamilton-1.7)
+- [Hopper Genk 1.7](https://github.com/becodeorg/GNK-Hopper-1.7)
+
+#### 🗄️ Archived Promos
+
+- [Hamilton Bruxelles 1.3](https://github.com/becodeorg/BXL-Hamilton-1.3)
+- [Turing Charleroi 1.4](https://github.com/becodeorg/CRL-Turing-1.4)
+- [Swartz Bruxelles 1.3](https://github.com/becodeorg/BXL-Swartz-1.3)
+- [Lovelace Bruxelles 1.2](https://github.com/becodeorg/BXL-Lovelace-1.2)
+- [CyCorp Bruxelles 1.2](https://github.com/becodeorg/BXL-CyCorp-1.2)
+- [Andy Bruxelles 1](https://github.com/becodeorg/BXLAnderlecht)
+- [Central Bruxelles 1](https://github.com/becodeorg/BXLCentral)
 
 ### Useful repositories
 
-*TODO*
+- [📚 The Watch](https://github.com/becodeorg/The-Watch) (BeCode's technological watch, daily and in group)
 
 ### Other repositories
 

@@ -12,7 +12,8 @@ Each repository has a description (in repo's description and in the README) whic
 Here's the index of emojis according to project types :
 
 - ℹ️ **Information:** informative repositories, with useful resources or administratives information.
-- 📦 **Promo:** main repo for a BeCode promo.
+- 📦 **Promo (active):** main repo for an active BeCode promo.
+- 🗄️ **Promo (archived):** main repo for an past BeCode promo.
 - 📚 **Watch:** watch repo.
 - 🛰️ **Student Projects:** pedagogical projects by BeCode learners.
 - 🔬 **External Projects:** (real) projects for clients.

@@ -39,6 +39,7 @@
 - [Turing2 (promo 06)](https://github.com/becodeorg/Turing-2)
 - [Hamilton Liège 1.7](https://github.com/becodeorg/LIE-Hamilton-1.7)
 - [Hopper Genk 1.7](https://github.com/becodeorg/GNK-Hopper-1.7)
+- [Jepsen Liège 1.8](https://github.com/becodeorg/LIE-Jepsen-1.8)
 
 #### 🗄️ Archived Promos
 

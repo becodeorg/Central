@@ -39,7 +39,11 @@
 - [Turing2 (promo 06)](https://github.com/becodeorg/Turing-2)
 - [Hamilton Liège 1.7](https://github.com/becodeorg/LIE-Hamilton-1.7)
 - [Hopper Genk 1.7](https://github.com/becodeorg/GNK-Hopper-1.7)
-- [Jepsen Liège 1.8](https://github.com/becodeorg/LIE-Jepsen-1.8)
+- [Lamarr Antwerpen 1.8](https://github.com/becodeorg/ANT-Lamarr-1.8)
+- [Jepsen Liège 1.9](https://github.com/becodeorg/LIE-Jepsen-1.9)
+- [Johnson Brussels 3.9](https://github.com/becodeorg/BXL-Johnson-3.9)
+- [Lovelace Brussels 3.9](https://github.com/becodeorg/BXL-Lovelace-3.9)
+- [Woods Charleroi 1.9](https://github.com/becodeorg/CRL-Woods-1.9)
 
 #### 🗄️ Archived Promos
 

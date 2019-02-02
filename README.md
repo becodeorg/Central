@@ -16,7 +16,9 @@
 * * *
 
 > 🇳🇱 **Welkom !**  
-> *TODO*
+> U bent in de **BeCode Central** repository, het startpunt voor de BeCode Github.
+> Als je verloren bent gelopen is dit de beste plaats om te vinden waar je moet zijn: bijna alles zit in deze index.
+> Maar BeCode is tweetalig dus is de rest van deze repository *in het engels*. Voor iedereen een goeie oefening.
 
 * * *
 

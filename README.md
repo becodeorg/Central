@@ -60,6 +60,7 @@
 ### Useful repositories
 
 - [📚 The Watch](https://github.com/becodeorg/The-Watch) (BeCode's technological watch, daily and in group)
+- [ℹ️ Common Resources](https://github.com/becodeorg/BeCode) (Common resources)
 - [⚙️ Static Resources](https://github.com/becodeorg/static-ressources) (Host for _static files_ at BeCode)
 
 ### Other repositories

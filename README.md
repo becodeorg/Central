@@ -4,7 +4,10 @@
 
 * * *
 
-> **NOTE:** This repo is still a *work in progress*
+> 🇬🇧 **Welcome!**  
+> You are on the **BeCode Central** repository, the main entry point for the BeCode's GitHub.  
+> If you're lost, this is the best place to find where to go: almost everything is indexed here.  
+> But please be aware that as BeCode is bilingual, the rest of this repo will be *in english*. A good training for everybody.
 
 * * *
 
@@ -22,23 +25,12 @@
 
 * * *
 
-> 🇬🇧 **Welcome!**  
-> You are on the **BeCode Central** repository, the main entry point for the BeCode's GitHub.  
-> If you're lost, this is the best place to find where to go: almost everything is indexed here.  
-> But please be aware that as BeCode is bilingual, the rest of this repo will be *in english*. A good training for everybody.
-
-* * *
-
 ## Repositories Index
 
 ### Promos
 
 #### 📦 Active Promos
 
-- [Lovelace2 (promo 05)](https://github.com/becodeorg/lovelace-2)
-- [Johnson2 (promo 05)](https://github.com/becodeorg/Johnson2)
-- [Swartz2 (promo 06)](https://github.com/becodeorg/Swartz-2)
-- [Turing2 (promo 06)](https://github.com/becodeorg/Turing-2)
 - [Hamilton Liège 1.7](https://github.com/becodeorg/LIE-Hamilton-1.7)
 - [Hopper Genk 1.7](https://github.com/becodeorg/GNK-Hopper-1.7)
 - [Lamarr Antwerpen 1.8](https://github.com/becodeorg/ANT-Lamarr-1.8)
@@ -46,6 +38,13 @@
 - [Johnson Brussels 3.9](https://github.com/becodeorg/BXL-Johnson-3.9)
 - [Lovelace Brussels 3.9](https://github.com/becodeorg/BXL-Lovelace-3.9)
 - [Woods Charleroi 1.9](https://github.com/becodeorg/CRL-Woods-1.9)
+- [Holberton Genk 1.9](http://github.com/becodeorg/GNK-Holberton-1.9)
+- [Yu Gent 1.10](http://github.com/becodeorg/GNT-YU-1.10)
+- [Turing Charleroi 3.11](http://github.com/becodeorg/CRL-Turing-3.11)
+- [Bouman Brussels 1.11](http://github.com/becodeorg/BXL-Bouman-1.11)
+- [Giertz Antwerpen 1.11](http://github.com/becodeorg/ANT-Giertz-1-11)
+- [Hamilton Liège 2.12](http://github.com/becodeorg/LIE-Hamilton-2.12)
+- [Hopper Genk 2.12](https://github.com/becodeorg/GNK-Hopper-2.12)
 
 #### 🗄️ Archived Promos
 
@@ -56,6 +55,10 @@
 - [CyCorp Bruxelles 1.2](https://github.com/becodeorg/BXL-CyCorp-1.2)
 - [Andy Bruxelles 1](https://github.com/becodeorg/BXLAnderlecht)
 - [Central Bruxelles 1](https://github.com/becodeorg/BXLCentral)
+- [Lovelace2 (promo 05)](https://github.com/becodeorg/lovelace-2)
+- [Johnson2 (promo 05)](https://github.com/becodeorg/Johnson2)
+- [Swartz2 (promo 06)](https://github.com/becodeorg/Swartz-2)
+- [Turing2 (promo 06)](https://github.com/becodeorg/Turing-2)
 
 ### Useful repositories
 
@@ -65,4 +68,7 @@
 
 ### Other repositories
 
-*TODO*
+#### Tools
+
+- [⚙️ CLI](https://github.com/becodeorg/cli) (CLI Utils at BeCode. Useful for everyone)
+- [⚙️ Pwojèktè](https://github.com/becodeorg/pwojekte) (A small dashboard for classroom)
